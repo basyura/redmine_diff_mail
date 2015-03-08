@@ -1,3 +1,4 @@
+require 'kconv'
 module DiffMail
   #
   #
