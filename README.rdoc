@@ -1,3 +1,0 @@
-= redmine_diff_mail
-
-Description goes here
